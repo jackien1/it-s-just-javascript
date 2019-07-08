@@ -6,12 +6,6 @@
 
 This repository contains our lesson plan, in-class presentations, and resources for further exploration into JavaScript. As we only meet for 2 hours for each class, you should really consider researching material outside of class. Use this repository as a starting point for your research; take a look at the different websites, books, and online classes. The possibilities of JavaScript are endless! Try building apps using _React Native_, websites with _React_, or servers with _Node.js_.
 
-If you ever need extra help, don't hesitant to contact us.
-
-Jackie Ni (Teacher): jackieni2002@gmail.com
-<br />
-Joey Cha (Teacher's Assistant): 20chaj@sagehillschool.org
-
 Now let's just jump right into it! :balloon:
 
 # Daily Schedule
