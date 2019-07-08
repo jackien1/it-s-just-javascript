@@ -1,42 +1,45 @@
-# Ant Design example
+# It's Just JavaScript :telescope:
 
-## How to use
+> An introduction into the fundamentals of Javascript.
 
-### Using `create-next-app`
+`It's Just JavaScript` focuses on educating students on the language of the web, JavaScript. Over the course of an entire week, you will learn the basics of JavaScript and develop simple web applications. Don’t worry if you don’t know programming, as the title suggests, “It’s Just JavaScript!”
 
-Execute [`create-next-app`](https://github.com/segmentio/create-next-app) with [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) or [npx](https://github.com/zkat/npx#readme) to bootstrap the example:
+This repository contains our lesson plan, in-class presentations, and resources for further exploration into JavaScript. As we only meet for 2 hours for each class, you should really consider researching material outside of class. Use this repository as a starting point for your research; take a look at the different websites, books, and online classes. The possibilities of JavaScript are endless! Try building apps using _React Native_, websites with _React_, or servers with _Node.js_.
+
+If you ever need extra help, don't hesitant to contact us.
+
+Jackie Ni (Teacher): jackieni2002@gmail.com
+<br />
+Joey Cha (Teacher's Assistant): 20chaj@sagehillschool.org
+
+Now let's just jump right into it! :balloon:
+
+# Daily Schedule
+
+| Day | Topic                | Description                                                      |
+| --- | -------------------- | ---------------------------------------------------------------- |
+| 0   | [Hello Sage Hill][0] | Icebreaker. Get everyone set up. Learn the basics of JavaScript. | None |  |
+| 1   | [Untitled][0]        | Description.                                                     | None |  |
+| 2   | [Untitled][0]        | Description.                                                     | None |  |
+| 3   | [Untitled][0]        | Description.                                                     | None |  |
+| 4   | [Untitled][0]        | Description.                                                     | None |  |
+
+> **Disclaimer**: Please bring a laptop.
+
+[0]: https://github.com/ArdentLabs/bootcamp/tree/master/week0
+
+# NextJS Website
+
+Install the dependencies:
 
 ```bash
-npx create-next-app --example with-ant-design with-ant-design-app
-# or
-yarn create next-app --example with-ant-design with-ant-design-app
-```
-
-### Download manually
-
-Download the example:
-
-```bash
-curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/with-ant-design
-cd with-ant-design
-```
-
-Install it and run:
-
-```bash
-npm install
-npm run dev
-# or
 yarn
-yarn dev
 ```
 
-Deploy it to the cloud with [now](https://zeit.co/now) ([download](https://zeit.co/download))
+Start up the local server:
 
 ```bash
-now
+yarn start
 ```
 
-## The idea behind the example
-
-This example shows how to use Next.js along with [Ant Design of React](http://ant.design). This is intended to show the integration of this UI toolkit with the Framework.
+Open a browser to [http://localhost:3000](http://localhost:3000).
