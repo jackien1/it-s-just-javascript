@@ -13,14 +13,18 @@ Now let's just jump right into it! :balloon:
 | Day | Topic                | Description                                                      |
 | --- | -------------------- | ---------------------------------------------------------------- |
 | 0   | [Hello Sage Hill][0] | Icebreaker. Get everyone set up. Learn the basics of JavaScript. | None |  |
-| 1   | [Untitled][0]        | Description.                                                     | None |  |
-| 2   | [Untitled][0]        | Description.                                                     | None |  |
-| 3   | [Untitled][0]        | Description.                                                     | None |  |
-| 4   | [Untitled][0]        | Description.                                                     | None |  |
+| 1   | [Untitled][1]        | Description.                                                     | None |  |
+| 2   | [Untitled][2]        | Description.                                                     | None |  |
+| 3   | [Untitled][3]        | Description.                                                     | None |  |
+| 4   | [Untitled][4]        | Description.                                                     | None |  |
 
 > **Disclaimer**: Please bring a laptop.
 
-[0]: https://github.com/ArdentLabs/bootcamp/tree/master/week0
+[0]: https://github.com/jackien1/its-just-javascript/tree/master/day0
+[1]: https://github.com/jackien1/its-just-javascript/tree/master/day1
+[2]: https://github.com/jackien1/its-just-javascript/tree/master/day2
+[3]: https://github.com/jackien1/its-just-javascript/tree/master/day3
+[4]: https://github.com/jackien1/its-just-javascript/tree/master/day4
 
 # NextJS Website
 
