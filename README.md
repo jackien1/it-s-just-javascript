@@ -8,15 +8,15 @@ This repository contains our lesson plan, in-class presentations, and resources 
 
 Now let's just jump right into it! :balloon:
 
-# Daily Schedule
+# Daily Schedule (tentative)
 
-| Day | Topic                | Description                                                      |
-| --- | -------------------- | ---------------------------------------------------------------- |
-| 0   | [Hello Sage Hill][0] | Icebreaker. Get everyone set up. Learn the basics of JavaScript. | None |  |
-| 1   | [Untitled][1]        | Description.                                                     | None |  |
-| 2   | [Untitled][2]        | Description.                                                     | None |  |
-| 3   | [Untitled][3]        | Description.                                                     | None |  |
-| 4   | [Untitled][4]        | Description.                                                     | None |  |
+| Day | Topic                 | Description                                                      |
+| --- | --------------------- | ---------------------------------------------------------------- |
+| 0   | [Hello Sage Hill][0]  | Icebreaker. Get everyone set up. Learn the basics of JavaScript. | None |  |
+| 1   | [Advanced Stuff][1]   | Description.                                                     | None |  |
+| 2   | [Personal Website][2] | Description.                                                     | None |  |
+| 3   | [Meme Generator][3]   | Description.                                                     | None |  |
+| 4   | [Mobile App][4]       | Description.                                                     | None |  |
 
 > **Disclaimer**: Please bring a laptop.
 
