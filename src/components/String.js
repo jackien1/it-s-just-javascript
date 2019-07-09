@@ -19,8 +19,8 @@ class String extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,39 +38,39 @@ class String extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "2.4vw" }}>String</h1>
+            <h1 style={{ color: "black", fontSize: "3vw" }}>String</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
-              <li style={{ fontSize: "1.6vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 Single Quotes
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 'Joey likes to run.'
               </Text>
-              <li style={{ fontSize: "1.6vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 Double Quotes
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 "Joey likes to run."
               </Text>
-              <li style={{ fontSize: "1.6vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 Escape Sequences (\n, \t, \", \\)
               </li>
 
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 console.log("Joey likesn\nto run.");
               </Text>
 
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 >> Joey likes
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 >> to run
               </Text>
 
-              <li style={{ fontSize: "1.6vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 Concatenation
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 "Joey" + "likes" + "to" + "run."
               </Text>
 
@@ -82,7 +82,7 @@ class String extends Component {
                   alignItems: "center"
                 }}
               >
-                <div style={{ fontSize: "0.8vw" }}>
+                <div style={{ fontSize: "1.5vw" }}>
                   Write "I am learning JavaScript" with the quotes and
                   concatenation.
                 </div>

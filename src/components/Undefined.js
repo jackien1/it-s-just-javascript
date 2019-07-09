@@ -19,8 +19,8 @@ class Undefined extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,12 +38,12 @@ class Undefined extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3vw" }}>Undefined</h1>
+            <h1 style={{ color: "black", fontSize: "4vw" }}>Undefined</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
-              <li style={{ fontSize: "1.8vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2.5vw", fontWeight: "bold" }}>
                 Undefined and null are basically interchangeable
               </li>
-              <li style={{ fontSize: "1.8vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2.5vw", fontWeight: "bold" }}>
                 Indicates the absence of a meaningful value
               </li>
               <div
@@ -53,10 +53,10 @@ class Undefined extends Component {
                   flexDirection: "column"
                 }}
               >
-                <Text code style={{ fontSize: "1vw" }}>
+                <Text code style={{ fontSize: "2vw" }}>
                   console.log(null == undefined);
                 </Text>
-                <Text code style={{ fontSize: "1vw" }}>
+                <Text code style={{ fontSize: "2vw" }}>
                   >> true
                 </Text>
               </div>

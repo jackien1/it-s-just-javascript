@@ -19,8 +19,8 @@ class Boolean extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,27 +38,27 @@ class Boolean extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3vw" }}>Boolean</h1>
+            <h1 style={{ color: "black", fontSize: "4vw" }}>Boolean</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
-              <li style={{ fontSize: "1.6vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 Either true or false (1 or 0)
               </li>
-              <li style={{ fontSize: "1.6vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 {"Comparisons (>, <, <=, >=, ==, !=)"}
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 console.log(2 > 1);
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 >> true
               </Text>
-              <li style={{ fontSize: "1.6vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 Logical Operators (&&, ||, !)
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 console.log(true && false);
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 >> false
               </Text>
 
@@ -70,10 +70,10 @@ class Boolean extends Component {
                   alignItems: "center"
                 }}
               >
-                <div style={{ fontSize: "0.8vw" }}>
+                <div style={{ fontSize: "1.5vw" }}>
                   What is the output of this statement?
                 </div>
-                <Text code style={{ fontSize: "0.8vw" }}>
+                <Text code style={{ fontSize: "1.5vw" }}>
                   console.log(1 + 1 == 2 && 10 * 10 > 50)
                 </Text>
               </div>

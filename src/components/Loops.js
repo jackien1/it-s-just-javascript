@@ -19,8 +19,8 @@ class Loops extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,57 +38,47 @@ class Loops extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "2.4vw" }}>
+            <h1 style={{ color: "black", fontSize: "3.5vw" }}>
               While and do Loops
             </h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 The body of a while loop continues until the boolean is false
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 var joeyBobaLevels = 1;
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 {"while (joeyBobaLevels <= 10) {"}
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 console.log(joeyBobaLevels); joeyBobaLevels++;
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 }
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 >> 1
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 >> ...10
               </Text>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 a do loop first executes its body and then checks the boolean
                 value
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 {"do {"}
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 var joeySecret = prompt("What is his secret?");
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 } while (joeySecret != "he watches My Little Ponu")
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 console.log("You guessed successfully!");
               </Text>
-              <div
-                style={{
-                  marginTop: "2vh",
-                  display: "flex",
-                  flexDirection: "column"
-                }}
-              >
-                Prompt users for their names. If they enter nothing, continue
-                asking them.
-              </div>
             </ul>
           </div>
 

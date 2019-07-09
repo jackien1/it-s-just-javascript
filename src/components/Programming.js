@@ -17,8 +17,8 @@ class Programming extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -36,7 +36,7 @@ class Programming extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3vw" }}>
+            <h1 style={{ color: "black", fontSize: "4vw" }}>
               What is programming?
             </h1>
           </div>

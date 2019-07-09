@@ -24797,6 +24797,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_components_If__WEBPACK_IMPORTED_MODULE_26__ = __webpack_require__(/*! ../src/components/If */ "./src/components/If.js");
 /* harmony import */ var _src_components_Loops__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! ../src/components/Loops */ "./src/components/Loops.js");
 /* harmony import */ var _src_components_For__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! ../src/components/For */ "./src/components/For.js");
+/* harmony import */ var _src_components_Switch__WEBPACK_IMPORTED_MODULE_29__ = __webpack_require__(/*! ../src/components/Switch */ "./src/components/Switch.js");
+/* harmony import */ var _src_components_Exercises__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ../src/components/Exercises */ "./src/components/Exercises.js");
+/* harmony import */ var _src_components_AdvancedFunctions__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ../src/components/AdvancedFunctions */ "./src/components/AdvancedFunctions.js");
+/* harmony import */ var _src_components_Project__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ../src/components/Project */ "./src/components/Project.js");
 
 
 
@@ -24811,6 +24815,10 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/pages/index.js";
+
+
+
+
 
 
 
@@ -24870,7 +24878,7 @@ function (_Component) {
             add: _this.addIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 37
+              lineNumber: 41
             },
             __self: this
           });
@@ -24882,7 +24890,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 41
+              lineNumber: 45
             },
             __self: this
           });
@@ -24894,7 +24902,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 45
+              lineNumber: 49
             },
             __self: this
           });
@@ -24906,7 +24914,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 49
+              lineNumber: 53
             },
             __self: this
           });
@@ -24918,7 +24926,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 53
+              lineNumber: 57
             },
             __self: this
           });
@@ -24930,7 +24938,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 57
+              lineNumber: 61
             },
             __self: this
           });
@@ -24942,7 +24950,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 61
+              lineNumber: 65
             },
             __self: this
           });
@@ -24954,7 +24962,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 65
+              lineNumber: 69
             },
             __self: this
           });
@@ -24966,7 +24974,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 69
+              lineNumber: 73
             },
             __self: this
           });
@@ -24978,7 +24986,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 73
+              lineNumber: 77
             },
             __self: this
           });
@@ -24990,7 +24998,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 77
+              lineNumber: 81
             },
             __self: this
           });
@@ -25002,7 +25010,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 81
+              lineNumber: 85
             },
             __self: this
           });
@@ -25014,7 +25022,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 85
+              lineNumber: 89
             },
             __self: this
           });
@@ -25026,7 +25034,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 89
+              lineNumber: 93
             },
             __self: this
           });
@@ -25038,7 +25046,55 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 93
+              lineNumber: 97
+            },
+            __self: this
+          });
+          break;
+
+        case 15:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_Switch__WEBPACK_IMPORTED_MODULE_29__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 101
+            },
+            __self: this
+          });
+          break;
+
+        case 16:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_Exercises__WEBPACK_IMPORTED_MODULE_30__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 105
+            },
+            __self: this
+          });
+          break;
+
+        case 17:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_AdvancedFunctions__WEBPACK_IMPORTED_MODULE_31__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 110
+            },
+            __self: this
+          });
+          break;
+
+        case 18:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_Project__WEBPACK_IMPORTED_MODULE_32__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 115
             },
             __self: this
           });
@@ -25056,14 +25112,14 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 98
+              lineNumber: 120
             },
             __self: this
           }, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
             style: {
               backgroundColor: "white",
-              width: "60vw",
-              height: "60vh"
+              width: "80vw",
+              height: "80vh"
             },
             bodyStyle: {
               display: "flex",
@@ -25073,7 +25129,7 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 108
+              lineNumber: 130
             },
             __self: this
           }, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement("div", {
@@ -25086,17 +25142,17 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 121
+              lineNumber: 143
             },
             __self: this
           }, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement("h1", {
             style: {
               color: "black",
-              fontSize: "2.4vw"
+              fontSize: "4vw"
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 130
+              lineNumber: 152
             },
             __self: this
           }, "Any Questions?")), react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement("div", {
@@ -25109,7 +25165,7 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 135
+              lineNumber: 157
             },
             __self: this
           }, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -25120,7 +25176,7 @@ function (_Component) {
             onClick: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 144
+              lineNumber: 166
             },
             __self: this
           }))));
@@ -25141,6 +25197,363 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_13__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (App);
+
+/***/ }),
+
+/***/ "./src/components/AdvancedFunctions.js":
+/*!*********************************************!*\
+  !*** ./src/components/AdvancedFunctions.js ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/AdvancedFunctions.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var AdvancedFunctions =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(AdvancedFunctions, _Component);
+
+  function AdvancedFunctions() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, AdvancedFunctions);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(AdvancedFunctions).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(AdvancedFunctions, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Functions (Advanced Edition)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, "Helps define new vocabulary."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 48
+        },
+        __self: this
+      }, "Example of a function definition."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }, "var eat = function(x) {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54
+        },
+        __self: this
+      }, "console.log(\"Yum!\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      }, "};"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 60
+        },
+        __self: this
+      }, "eat();"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 63
+        },
+        __self: this
+      }, ">> \"Yum!\""), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 66
+        },
+        __self: this
+      }, "Parameters are like regular variables but its value comes from the caller of the function. They are local to the function (lexical scoping)."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 71
+        },
+        __self: this
+      }, "var addOne = function(a) {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 74
+        },
+        __self: this
+      }, "console.log(a);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 77
+        },
+        __self: this
+      }, "};"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 80
+        },
+        __self: this
+      }, "addOne(5);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 83
+        },
+        __self: this
+      }, "console.log(a);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 86
+        },
+        __self: this
+      }, ">> 5"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 89
+        },
+        __self: this
+      }, ">> undefined"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 93
+        },
+        __self: this
+      }, "Another way to write a function (function declaration). They differ by hoisting."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 97
+        },
+        __self: this
+      }, "function cube(x) {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 100
+        },
+        __self: this
+      }, "return x * x * x;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 103
+        },
+        __self: this
+      }, "}"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 109
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 118
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 123
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return AdvancedFunctions;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (AdvancedFunctions);
 
 /***/ }),
 
@@ -25218,8 +25631,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -25248,7 +25661,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.4vw"
+          fontSize: "3.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25267,7 +25680,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25277,7 +25690,7 @@ function (_Component) {
         __self: this
       }, "A piece of program wrapped in a value"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25288,7 +25701,7 @@ function (_Component) {
       }, "You can call a function by adding parentheses after a function expression"), "Try this", react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25297,7 +25710,7 @@ function (_Component) {
         __self: this
       }, "alert(\"Good morning!\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25307,7 +25720,7 @@ function (_Component) {
         __self: this
       }, "The log portion of console.log is a function"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25318,7 +25731,7 @@ function (_Component) {
       }, "Some functions return values (Math.min, Math.max)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25328,7 +25741,7 @@ function (_Component) {
       }, "console.log(Math.max(0, 10));"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25337,7 +25750,7 @@ function (_Component) {
         __self: this
       }, ">> 10"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25348,7 +25761,7 @@ function (_Component) {
       }, "You can use the prompt function for browser input"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25358,7 +25771,7 @@ function (_Component) {
       }, "var name = prompt(\"What is your name, \"\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25369,7 +25782,8 @@ function (_Component) {
         style: {
           marginTop: "2vh",
           display: "flex",
-          flexDirection: "column"
+          flexDirection: "column",
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25386,7 +25800,7 @@ function (_Component) {
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 90
+          lineNumber: 91
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -25397,7 +25811,7 @@ function (_Component) {
         onClick: this.props.remove,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 99
+          lineNumber: 100
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -25408,7 +25822,7 @@ function (_Component) {
         onClick: this.props.add,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 104
+          lineNumber: 105
         },
         __self: this
       }))));
@@ -25496,8 +25910,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -25526,7 +25940,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw"
+          fontSize: "4vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25545,7 +25959,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.6vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25555,7 +25969,7 @@ function (_Component) {
         __self: this
       }, "Either true or false (1 or 0)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.6vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25566,7 +25980,7 @@ function (_Component) {
       }, "Comparisons (>, <, <=, >=, ==, !=)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25576,7 +25990,7 @@ function (_Component) {
       }, "console.log(2 > 1);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25585,7 +25999,7 @@ function (_Component) {
         __self: this
       }, ">> true"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.6vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25596,7 +26010,7 @@ function (_Component) {
       }, "Logical Operators (&&, ||, !)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25606,7 +26020,7 @@ function (_Component) {
       }, "console.log(true && false);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25627,7 +26041,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25637,7 +26051,7 @@ function (_Component) {
       }, "What is the output of this statement?"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25687,6 +26101,273 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (Boolean);
+
+/***/ }),
+
+/***/ "./src/components/Exercises.js":
+/*!*************************************!*\
+  !*** ./src/components/Exercises.js ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/Exercises.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var Exercises =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(Exercises, _Component);
+
+  function Exercises() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, Exercises);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(Exercises).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(Exercises, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Exercises"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ol", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "Create a program which asks for two numbers, multiples them together, and print them out."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 47
+        },
+        __self: this
+      }, "Prompt users for their names. If they enter nothing, continue asking them."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }, "Create a guessing game that runs until you reach the number. It will print out \"too small\" or \"too large\" for numbers that are greater than or less than the correct value."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 56
+        },
+        __self: this
+      }, "Print this out"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 59
+        },
+        __self: this
+      }, "#"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 60
+        },
+        __self: this
+      }, "##"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
+      }, "###"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 62
+        },
+        __self: this
+      }, "####"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 63
+        },
+        __self: this
+      }, "Hint: you can get the length of a string using .length"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 66
+        },
+        __self: this
+      }, "Attempt the FizzBuzz challenge. Make a for loop from 1 to 100. Console.log \"Fizz\" for numbers divisible by 3, \"Buzz\" for numbers divisible by 5, and \"FizzBuzz\" for numbers divisible by both 3 and 5. Print the number normally otherwise."))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 75
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 84
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 89
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return Exercises;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (Exercises);
 
 /***/ }),
 
@@ -25764,8 +26445,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -25794,7 +26475,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.4vw"
+          fontSize: "3.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25813,7 +26494,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2.4vw",
           fontWeight: "bold"
         },
         __source: {
@@ -25824,7 +26505,7 @@ function (_Component) {
       }, "More comprehensive version of the while loop with counter"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25834,7 +26515,7 @@ function (_Component) {
       }, "for (var joeyBobaLevels = 1; joeyBobaLevels <= 10; joeyBobaLevels++) "), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25844,7 +26525,7 @@ function (_Component) {
       }, "console.log(joeyBobaLevels)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -25854,25 +26535,14 @@ function (_Component) {
       }, ">> 1"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
           lineNumber: 57
         },
         __self: this
-      }, ">> ...10"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
-        style: {
-          marginTop: "2vh",
-          display: "flex",
-          flexDirection: "column"
-        },
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 60
-        },
-        __self: this
-      }, "Attempt the FizzBuzz challenge. Make a for loop from 1 to 100. Console.log \"Fizz\" for numbers divisible by 3, \"Buzz\" for numbers divisible by 5, and \"FizzBuzz\" for numbers divisible by both 3 and 5. Print the number normally otherwise."))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+      }, ">> ...10"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
         style: {
           display: "flex",
           flex: 1,
@@ -25882,7 +26552,7 @@ function (_Component) {
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 75
+          lineNumber: 63
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -25893,7 +26563,7 @@ function (_Component) {
         onClick: this.props.remove,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 84
+          lineNumber: 72
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -25904,7 +26574,7 @@ function (_Component) {
         onClick: this.props.add,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 89
+          lineNumber: 77
         },
         __self: this
       }))));
@@ -25992,8 +26662,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -26022,7 +26692,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw"
+          fontSize: "4vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26032,7 +26702,7 @@ function (_Component) {
       }, "Hello World"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.1vw"
+          fontSize: "3.1vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26051,7 +26721,7 @@ function (_Component) {
       }, "https://repl.it/languages/html")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "1vw"
+          fontSize: "2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26178,8 +26848,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -26208,7 +26878,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.4vw"
+          fontSize: "3.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26227,7 +26897,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -26238,7 +26908,7 @@ function (_Component) {
       }, "if - else statement"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26248,7 +26918,7 @@ function (_Component) {
       }, "var isJoeyAwake = false;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26258,7 +26928,7 @@ function (_Component) {
       }, "if (isJoeyAwake) console.log('Joey is given a lot of money.');"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26268,7 +26938,7 @@ function (_Component) {
       }, "else console.log('Joey loses all his money.');"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26277,7 +26947,7 @@ function (_Component) {
         __self: this
       }, ">> Joey loses all his money."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -26288,7 +26958,7 @@ function (_Component) {
       }, "If/else pair chains"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26298,7 +26968,7 @@ function (_Component) {
       }, "var joeyPowerLevel = 9000;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26308,7 +26978,7 @@ function (_Component) {
       }, "if (joeyPowerLevel < 10) console.log('Joey is weak.');"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26318,7 +26988,7 @@ function (_Component) {
       }, "else if (joeyPowerLevel < 100) console.log('Joey is still weak.');"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26328,7 +26998,7 @@ function (_Component) {
       }, "else console.log(\"The apocalypse is coming.\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26339,7 +27009,8 @@ function (_Component) {
         style: {
           marginTop: "2vh",
           display: "flex",
-          flexDirection: "column"
+          flexDirection: "column",
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26356,7 +27027,7 @@ function (_Component) {
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 93
+          lineNumber: 94
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -26367,7 +27038,7 @@ function (_Component) {
         onClick: this.props.remove,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 102
+          lineNumber: 103
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -26378,7 +27049,7 @@ function (_Component) {
         onClick: this.props.add,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 107
+          lineNumber: 108
         },
         __self: this
       }))));
@@ -26459,8 +27130,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -26489,7 +27160,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.1vw"
+          fontSize: "3.1vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26499,7 +27170,7 @@ function (_Component) {
       }, "Welcome to"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw",
+          fontSize: "4vw",
           fontStyle: "italic"
         },
         __source: {
@@ -26510,7 +27181,7 @@ function (_Component) {
       }, "It's Just JavaScript"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "1vw",
+          fontSize: "2vw",
           textAlign: "right"
         },
         __source: {
@@ -26620,8 +27291,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -26650,7 +27321,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.1vw"
+          fontSize: "3.1vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26660,7 +27331,7 @@ function (_Component) {
       }, "What is"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw",
+          fontSize: "4vw",
           fontStyle: "italic"
         },
         __source: {
@@ -26788,8 +27459,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -26818,7 +27489,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.4vw"
+          fontSize: "3.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26837,7 +27508,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -26848,7 +27519,7 @@ function (_Component) {
       }, "The body of a while loop continues until the boolean is false"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26858,7 +27529,7 @@ function (_Component) {
       }, "var joeyBobaLevels = 1;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26868,7 +27539,7 @@ function (_Component) {
       }, "while (joeyBobaLevels <= 10) {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26878,7 +27549,7 @@ function (_Component) {
       }, "console.log(joeyBobaLevels); joeyBobaLevels++;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26888,7 +27559,7 @@ function (_Component) {
       }, "}"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26898,7 +27569,7 @@ function (_Component) {
       }, ">> 1"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26907,7 +27578,7 @@ function (_Component) {
         __self: this
       }, ">> ...10"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -26918,7 +27589,7 @@ function (_Component) {
       }, "a do loop first executes its body and then checks the boolean value"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26928,7 +27599,7 @@ function (_Component) {
       }, "do {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26938,7 +27609,7 @@ function (_Component) {
       }, "var joeySecret = prompt(\"What is his secret?\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -26948,25 +27619,14 @@ function (_Component) {
       }, "} while (joeySecret != \"he watches My Little Ponu\")"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
           lineNumber: 79
         },
         __self: this
-      }, "console.log(\"You guessed successfully!\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
-        style: {
-          marginTop: "2vh",
-          display: "flex",
-          flexDirection: "column"
-        },
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 82
-        },
-        __self: this
-      }, "Prompt users for their names. If they enter nothing, continue asking them."))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+      }, "console.log(\"You guessed successfully!\");"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
         style: {
           display: "flex",
           flex: 1,
@@ -26976,7 +27636,7 @@ function (_Component) {
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 95
+          lineNumber: 85
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -26987,7 +27647,7 @@ function (_Component) {
         onClick: this.props.remove,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 104
+          lineNumber: 94
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -26998,7 +27658,7 @@ function (_Component) {
         onClick: this.props.add,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 109
+          lineNumber: 99
         },
         __self: this
       }))));
@@ -27086,8 +27746,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -27116,7 +27776,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw"
+          fontSize: "4vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27131,7 +27791,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw",
+          fontSize: "3.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27141,7 +27801,7 @@ function (_Component) {
         __self: this
       }, "Integers"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw",
+          fontSize: "3.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27151,7 +27811,7 @@ function (_Component) {
         __self: this
       }, "Decimals"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw",
+          fontSize: "3.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27174,7 +27834,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "1vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27184,7 +27844,7 @@ function (_Component) {
       }, "console.log(10 + 15 * 4);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "1vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27194,7 +27854,7 @@ function (_Component) {
       }, ">> 70"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "1vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27204,7 +27864,7 @@ function (_Component) {
       }, "console.log((10 + 15) * 4);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "1vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27213,7 +27873,7 @@ function (_Component) {
         __self: this
       }, ">> 100"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
         style: {
-          fontSize: "1vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27333,8 +27993,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -27363,7 +28023,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw"
+          fontSize: "4vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27413,6 +28073,242 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_9__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (Programming);
+
+/***/ }),
+
+/***/ "./src/components/Project.js":
+/*!***********************************!*\
+  !*** ./src/components/Project.js ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/Project.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var Project =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(Project, _Component);
+
+  function Project() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, Project);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(Project).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(Project, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Exercises"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a, {
+        style: {
+          fontSize: "2.1vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, "CHATBOT"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a, {
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, "Requirements"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 47
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 48
+        },
+        __self: this
+      }, "Use all primitive types."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }, "Include a calculator for the Pythagorean Theorem."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54
+        },
+        __self: this
+      }, "Add a command that displays a random sage fact."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      }, "Customize it however you want."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 60
+        },
+        __self: this
+      }, "Typing \"quit\" exists the program."))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 66
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 75
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 80
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return Project;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (Project);
 
 /***/ }),
 
@@ -27490,8 +28386,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -27520,7 +28416,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.4vw"
+          fontSize: "3vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27539,7 +28435,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.6vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27550,7 +28446,7 @@ function (_Component) {
       }, "Single Quotes"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27559,7 +28455,7 @@ function (_Component) {
         __self: this
       }, "'Joey likes to run.'"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.6vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27570,7 +28466,7 @@ function (_Component) {
       }, "Double Quotes"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27579,7 +28475,7 @@ function (_Component) {
         __self: this
       }, "\"Joey likes to run.\""), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.6vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27590,7 +28486,7 @@ function (_Component) {
       }, "Escape Sequences (\\n, \\t, \\\", \\\\)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27600,7 +28496,7 @@ function (_Component) {
       }, "console.log(\"Joey likesn\\nto run.\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27610,7 +28506,7 @@ function (_Component) {
       }, ">> Joey likes"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27619,7 +28515,7 @@ function (_Component) {
         __self: this
       }, ">> to run"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.6vw",
+          fontSize: "2vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27630,7 +28526,7 @@ function (_Component) {
       }, "Concatenation"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27651,7 +28547,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.5vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27701,6 +28597,273 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (String);
+
+/***/ }),
+
+/***/ "./src/components/Switch.js":
+/*!**********************************!*\
+  !*** ./src/components/Switch.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/Switch.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var Switch =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(Switch, _Component);
+
+  function Switch() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, Switch);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(Switch).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(Switch, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Switch"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "Alternative for a chain of if statements"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, 'switch (prompt("Choose your starter pokemon.")) {'), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "case \"pikachu\":"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }, "console.log(\"you chose wisely.\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55
+        },
+        __self: this
+      }, "break;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 58
+        },
+        __self: this
+      }, "case \"bulbasaur\":"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
+      }, "console.log(\"you have not chose wisely.\");"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 64
+        },
+        __self: this
+      }, "break;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 67
+        },
+        __self: this
+      }, "default:"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
+      }, "console.log(\"Bruh. That is not an option.\");"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 76
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 85
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 90
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return Switch;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (Switch);
 
 /***/ }),
 
@@ -27771,8 +28934,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -27801,7 +28964,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw"
+          fontSize: "4vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27816,7 +28979,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw",
+          fontSize: "3.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27826,7 +28989,7 @@ function (_Component) {
         __self: this
       }, "Numbers"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw",
+          fontSize: "3.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27836,7 +28999,7 @@ function (_Component) {
         __self: this
       }, "Strings"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw",
+          fontSize: "3.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27846,7 +29009,7 @@ function (_Component) {
         __self: this
       }, "Booleans"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw"
+          fontSize: "3.1vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27855,7 +29018,7 @@ function (_Component) {
         __self: this
       }, "Functions"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw"
+          fontSize: "3.1vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -27864,7 +29027,7 @@ function (_Component) {
         __self: this
       }, "Objects"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("li", {
         style: {
-          fontSize: "2.1vw",
+          fontSize: "3.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -27992,8 +29155,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -28022,7 +29185,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw"
+          fontSize: "4vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28041,7 +29204,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.8vw",
+          fontSize: "2.5vw",
           fontWeight: "bold"
         },
         __source: {
@@ -28051,7 +29214,7 @@ function (_Component) {
         __self: this
       }, "Undefined and null are basically interchangeable"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.8vw",
+          fontSize: "2.5vw",
           fontWeight: "bold"
         },
         __source: {
@@ -28073,7 +29236,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "1vw"
+          fontSize: "2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28083,7 +29246,7 @@ function (_Component) {
       }, "console.log(null == undefined);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "1vw"
+          fontSize: "2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28210,8 +29373,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -28240,7 +29403,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.4vw"
+          fontSize: "3vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28259,7 +29422,7 @@ function (_Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -28269,7 +29432,7 @@ function (_Component) {
         __self: this
       }, "Keeps track of internal state"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -28280,7 +29443,7 @@ function (_Component) {
       }, "Use var with = for definition"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28289,7 +29452,7 @@ function (_Component) {
         __self: this
       }, "var joey = \"I like to run.\";"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -28300,7 +29463,7 @@ function (_Component) {
       }, "Variables can be used as expressions"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28310,7 +29473,7 @@ function (_Component) {
       }, "var joey = \"I like to run.\";"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28320,7 +29483,7 @@ function (_Component) {
       }, "console.log(joey);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28329,7 +29492,7 @@ function (_Component) {
         __self: this
       }, ">> \"I like to run.\""), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
-          fontSize: "1.4vw",
+          fontSize: "2.1vw",
           fontWeight: "bold"
         },
         __source: {
@@ -28340,7 +29503,7 @@ function (_Component) {
       }, "You can reassign variables"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28350,7 +29513,7 @@ function (_Component) {
       }, "var joey = \"I like to run.\";"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28360,7 +29523,7 @@ function (_Component) {
       }, "joey = 100;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28370,7 +29533,7 @@ function (_Component) {
       }, "console.log(joey);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
         code: true,
         style: {
-          fontSize: "0.8vw"
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28381,7 +29544,8 @@ function (_Component) {
         style: {
           marginTop: "2vh",
           display: "flex",
-          flexDirection: "column"
+          flexDirection: "column",
+          fontSize: "1.2vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28398,7 +29562,7 @@ function (_Component) {
         },
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 92
+          lineNumber: 93
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -28409,7 +29573,7 @@ function (_Component) {
         onClick: this.props.remove,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 101
+          lineNumber: 102
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -28420,7 +29584,7 @@ function (_Component) {
         onClick: this.props.add,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 106
+          lineNumber: 107
         },
         __self: this
       }))));
@@ -28501,8 +29665,8 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
         style: {
           backgroundColor: "white",
-          width: "60vw",
-          height: "60vh"
+          width: "80vw",
+          height: "80vh"
         },
         bodyStyle: {
           display: "flex",
@@ -28531,7 +29695,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "2.1vw"
+          fontSize: "3.1vw"
         },
         __source: {
           fileName: _jsxFileName,
@@ -28541,7 +29705,7 @@ function (_Component) {
       }, "Why is"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement("h1", {
         style: {
           color: "black",
-          fontSize: "3vw",
+          fontSize: "4vw",
           fontStyle: "italic"
         },
         __source: {
@@ -28595,7 +29759,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjackieni%2Fdev%2Fsage%2Fits-just-javascript%2Fpages%2Findex.js ***!
   \******************************************************************************************************************************************/
@@ -28618,5 +29782,5 @@ module.exports = dll_7aff549c98b978433226;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js","styles"]]]);
+},[[1,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map

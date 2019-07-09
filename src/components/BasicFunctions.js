@@ -19,8 +19,8 @@ class BasicFunctions extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,47 +38,48 @@ class BasicFunctions extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "2.4vw" }}>
+            <h1 style={{ color: "black", fontSize: "3.5vw" }}>
               Functions (basic edition)
             </h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 A piece of program wrapped in a value
               </li>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 You can call a function by adding parentheses after a function
                 expression
               </li>
               Try this
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 alert("Good morning!");
               </Text>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 The log portion of console.log is a function
               </li>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 Some functions return values (Math.min, Math.max)
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 console.log(Math.max(0, 10));
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 >> 10
               </Text>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2vw", fontWeight: "bold" }}>
                 You can use the prompt function for browser input
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 var name = prompt("What is your name, "");
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 console.log(name);
               </Text>
               <div
                 style={{
                   marginTop: "2vh",
                   display: "flex",
-                  flexDirection: "column"
+                  flexDirection: "column",
+                  fontSize: "1.2vw"
                 }}
               >
                 Ask the user for a number (wrap prompt with Number), multiply it

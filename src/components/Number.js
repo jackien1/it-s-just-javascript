@@ -19,8 +19,8 @@ class Number extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,15 +38,15 @@ class Number extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3vw" }}>Number</h1>
+            <h1 style={{ color: "black", fontSize: "4vw" }}>Number</h1>
             <ul>
-              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "3.1vw", fontWeight: "bold" }}>
                 Integers
               </li>
-              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "3.1vw", fontWeight: "bold" }}>
                 Decimals
               </li>
-              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "3.1vw", fontWeight: "bold" }}>
                 Operations (+, -, *, /, %, PEMDAS)
               </li>
               <div
@@ -57,20 +57,20 @@ class Number extends Component {
                   alignItems: "center"
                 }}
               >
-                <Text code style={{ fontSize: "1vw" }}>
+                <Text code style={{ fontSize: "1.5vw" }}>
                   console.log(10 + 15 * 4);
                 </Text>
-                <Text code style={{ fontSize: "1vw" }}>
+                <Text code style={{ fontSize: "1.5vw" }}>
                   >> 70
                 </Text>
-                <Text code style={{ fontSize: "1vw" }}>
+                <Text code style={{ fontSize: "1.5vw" }}>
                   console.log((10 + 15) * 4);
                 </Text>
-                <Text code style={{ fontSize: "1vw" }}>
+                <Text code style={{ fontSize: "1.5vw" }}>
                   >> 100
                 </Text>
 
-                <div style={{ fontSize: "1vw" }}>
+                <div style={{ fontSize: "1.5vw" }}>
                   Try each of these operations on your own.
                 </div>
               </div>

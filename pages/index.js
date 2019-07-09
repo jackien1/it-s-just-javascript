@@ -15,6 +15,10 @@ import BasicFunctions from "../src/components/BasicFunctions";
 import If from "../src/components/If";
 import Loops from "../src/components/Loops";
 import For from "../src/components/For";
+import Switch from "../src/components/Switch";
+import Exercises from "../src/components/Exercises";
+import AdvancedFunctions from "../src/components/AdvancedFunctions";
+import Project from "../src/components/Project";
 
 const { Text } = Typography;
 
@@ -93,6 +97,24 @@ class App extends Component {
         return <For add={this.addIndex} remove={this.removeIndex} />;
         break;
 
+      case 15:
+        return <Switch add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 16:
+        return <Exercises add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 17:
+        return (
+          <AdvancedFunctions add={this.addIndex} remove={this.removeIndex} />
+        );
+        break;
+
+      case 18:
+        return <Project add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
       default:
         return (
           <div
@@ -108,8 +130,8 @@ class App extends Component {
             <Card
               style={{
                 backgroundColor: "white",
-                width: "60vw",
-                height: "60vh"
+                width: "80vw",
+                height: "80vh"
               }}
               bodyStyle={{
                 display: "flex",
@@ -127,7 +149,7 @@ class App extends Component {
                   alignItems: "center"
                 }}
               >
-                <h1 style={{ color: "black", fontSize: "2.4vw" }}>
+                <h1 style={{ color: "black", fontSize: "4vw" }}>
                   Any Questions?
                 </h1>
               </div>

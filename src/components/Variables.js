@@ -19,8 +19,8 @@ class Variables extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,49 +38,50 @@ class Variables extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "2.4vw" }}>Variables</h1>
+            <h1 style={{ color: "black", fontSize: "3vw" }}>Variables</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
                 Keeps track of internal state
               </li>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
                 Use var with = for definition
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 var joey = "I like to run.";
               </Text>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
                 Variables can be used as expressions
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 var joey = "I like to run.";
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 console.log(joey);
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 >> "I like to run."
               </Text>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
                 You can reassign variables
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 var joey = "I like to run.";
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 joey = 100;
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 console.log(joey);
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.2vw" }}>
                 >> 100
               </Text>
               <div
                 style={{
                   marginTop: "2vh",
                   display: "flex",
-                  flexDirection: "column"
+                  flexDirection: "column",
+                  fontSize: "1.2vw"
                 }}
               >
                 Create two number variables, multiply them, and console.log them

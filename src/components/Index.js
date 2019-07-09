@@ -17,8 +17,8 @@ class Index extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -36,16 +36,16 @@ class Index extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "2.1vw" }}>Welcome to</h1>
+            <h1 style={{ color: "black", fontSize: "3.1vw" }}>Welcome to</h1>
             <h1
-              style={{ color: "black", fontSize: "3vw", fontStyle: "italic" }}
+              style={{ color: "black", fontSize: "4vw", fontStyle: "italic" }}
             >
               It's Just JavaScript
             </h1>
             <h1
               style={{
                 color: "black",
-                fontSize: "1vw",
+                fontSize: "2vw",
                 textAlign: "right"
               }}
             >

@@ -19,8 +19,8 @@ class Loops extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,37 +38,25 @@ class Loops extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "2.4vw" }}>for Loops</h1>
+            <h1 style={{ color: "black", fontSize: "3.5vw" }}>for Loops</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
-              <li style={{ fontSize: "1.4vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "2.4vw", fontWeight: "bold" }}>
                 More comprehensive version of the while loop with counter
               </li>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 {
                   "for (var joeyBobaLevels = 1; joeyBobaLevels <= 10; joeyBobaLevels++) "
                 }
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 console.log(joeyBobaLevels)
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 >> 1
               </Text>
-              <Text code style={{ fontSize: "0.8vw" }}>
+              <Text code style={{ fontSize: "1.5vw" }}>
                 >> ...10
               </Text>
-              <div
-                style={{
-                  marginTop: "2vh",
-                  display: "flex",
-                  flexDirection: "column"
-                }}
-              >
-                Attempt the FizzBuzz challenge. Make a for loop from 1 to 100.
-                Console.log "Fizz" for numbers divisible by 3, "Buzz" for
-                numbers divisible by 5, and "FizzBuzz" for numbers divisible by
-                both 3 and 5. Print the number normally otherwise.
-              </div>
             </ul>
           </div>
 

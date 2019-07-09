@@ -17,8 +17,8 @@ class Types extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -36,18 +36,18 @@ class Types extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3vw" }}>
+            <h1 style={{ color: "black", fontSize: "4vw" }}>
               The 6 Basic Types of Values
             </h1>
             <ul>
-              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>Numbers</li>
-              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>Strings</li>
-              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "3.1vw", fontWeight: "bold" }}>Numbers</li>
+              <li style={{ fontSize: "3.1vw", fontWeight: "bold" }}>Strings</li>
+              <li style={{ fontSize: "3.1vw", fontWeight: "bold" }}>
                 Booleans
               </li>
-              <li style={{ fontSize: "2.1vw" }}>Functions</li>
-              <li style={{ fontSize: "2.1vw" }}>Objects</li>
-              <li style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
+              <li style={{ fontSize: "3.1vw" }}>Functions</li>
+              <li style={{ fontSize: "3.1vw" }}>Objects</li>
+              <li style={{ fontSize: "3.1vw", fontWeight: "bold" }}>
                 Undefined Values
               </li>
             </ul>

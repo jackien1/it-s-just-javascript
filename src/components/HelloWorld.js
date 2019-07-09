@@ -19,8 +19,8 @@ class HelloWorld extends Component {
         <Card
           style={{
             backgroundColor: "white",
-            width: "60vw",
-            height: "60vh"
+            width: "80vw",
+            height: "80vh"
           }}
           bodyStyle={{
             display: "flex",
@@ -38,15 +38,15 @@ class HelloWorld extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3vw" }}>Hello World</h1>
-            <h1 style={{ color: "black", fontSize: "2.1vw" }}>
+            <h1 style={{ color: "black", fontSize: "4vw" }}>Hello World</h1>
+            <h1 style={{ color: "black", fontSize: "3.1vw" }}>
               Head over to &nbsp;
               <span style={{ color: "blue" }}>
                 https://repl.it/languages/html
               </span>
             </h1>
 
-            <Text code style={{ fontSize: "1vw" }}>
+            <Text code style={{ fontSize: "2vw" }}>
               console.log("Hello Sage Hill");
             </Text>
           </div>
