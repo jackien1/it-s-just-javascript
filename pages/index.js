@@ -19,6 +19,14 @@ import Switch from "../src/components/Switch";
 import Exercises from "../src/components/Exercises";
 import AdvancedFunctions from "../src/components/AdvancedFunctions";
 import Project from "../src/components/Project";
+import HTMLIntro from "../src/components/HTMLIntro";
+import BasicTags from "../src/components/BasicTags";
+import TextTags from "../src/components/TextTags";
+import ImageTags from "../src/components/ImageTags";
+import CSS from "../src/components/CSS";
+import ConnectingCSS from "../src/components/ConnectingCSS";
+import AddingCSS from "../src/components/AddingCSS";
+import Publish from "../src/components/Publish";
 
 const { Text } = Typography;
 
@@ -113,6 +121,38 @@ class App extends Component {
 
       case 18:
         return <Project add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 19:
+        return <HTMLIntro add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 20:
+        return <BasicTags add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 21:
+        return <TextTags add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 22:
+        return <ImageTags add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 23:
+        return <CSS add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 24:
+        return <ConnectingCSS add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 25:
+        return <AddingCSS add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 26:
+        return <Publish add={this.addIndex} remove={this.removeIndex} />;
         break;
 
       default:
