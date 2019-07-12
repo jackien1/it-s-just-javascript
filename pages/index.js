@@ -27,6 +27,13 @@ import CSS from "../src/components/CSS";
 import ConnectingCSS from "../src/components/ConnectingCSS";
 import AddingCSS from "../src/components/AddingCSS";
 import Publish from "../src/components/Publish";
+import Review from "../src/components/Review";
+import ReviewExercises from "../src/components/ReviewExercises";
+import Arrays from "../src/components/Arrays";
+import Objects from "../src/components/Objects";
+import HTMLJS from "../src/components/HTMLJS";
+import NewTags from "../src/components/NewTags";
+import MemeGenerator from "../src/components/MemeGenerator";
 
 const { Text } = Typography;
 
@@ -153,6 +160,36 @@ class App extends Component {
 
       case 26:
         return <Publish add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 27:
+        return <Review add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 28:
+        return (
+          <ReviewExercises add={this.addIndex} remove={this.removeIndex} />
+        );
+        break;
+
+      case 29:
+        return <Arrays add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 30:
+        return <Objects add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 31:
+        return <HTMLJS add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 32:
+        return <NewTags add={this.addIndex} remove={this.removeIndex} />;
+        break;
+
+      case 33:
+        return <MemeGenerator add={this.addIndex} remove={this.removeIndex} />;
         break;
 
       default:

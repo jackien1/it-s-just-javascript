@@ -3,7 +3,7 @@ import { Card, Icon, Typography } from "antd";
 
 const { Text } = Typography;
 
-class Project extends Component {
+class HTMLJS extends Component {
   render() {
     return (
       <div
@@ -38,27 +38,16 @@ class Project extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3.5vw" }}>Exercises</h1>
-            <Typography style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
-              CHATBOT
-            </Typography>
-            <Typography style={{ fontSize: "1.5vw" }}>Requirements</Typography>
-
+            <h1 style={{ color: "black", fontSize: "3vw" }}>Meme Generator</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use all primitive types.
+                We are using axios a package to request links (REST)
               </li>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use 5 commands (total)
+                Imgflip returns a list of meme links. Grab a random one.
               </li>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Add a command that displays a random sage fact.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Customize it however you want.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Typing "quit" exists the program.
+                Use getElementById to replace image
               </li>
             </ul>
           </div>
@@ -89,4 +78,4 @@ class Project extends Component {
   }
 }
 
-export default Project;
+export default HTMLJS;

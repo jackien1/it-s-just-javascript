@@ -3,7 +3,7 @@ import { Card, Icon, Typography } from "antd";
 
 const { Text } = Typography;
 
-class Project extends Component {
+class NewTags extends Component {
   render() {
     return (
       <div
@@ -38,29 +38,25 @@ class Project extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3.5vw" }}>Exercises</h1>
-            <Typography style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
-              CHATBOT
-            </Typography>
-            <Typography style={{ fontSize: "1.5vw" }}>Requirements</Typography>
-
+            <h1 style={{ color: "black", fontSize: "3vw" }}>New Tags</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use all primitive types.
+                {"<button /> tag"}
               </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                {'<button onclick="myFunction()">Try it</button>'}
+              </Text>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use 5 commands (total)
+                {"<input /> tag"}
               </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Add a command that displays a random sage fact.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Customize it however you want.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Typing "quit" exists the program.
-              </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                {'<input type="text" id="myText" value="Some text...">'}
+              </Text>
             </ul>
+
+            <Typography style={{ fontSize: "1.2vw" }}>
+              Try to make a guessing game now.
+            </Typography>
           </div>
 
           <div
@@ -89,4 +85,4 @@ class Project extends Component {
   }
 }
 
-export default Project;
+export default NewTags;

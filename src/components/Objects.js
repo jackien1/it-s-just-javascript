@@ -3,7 +3,7 @@ import { Card, Icon, Typography } from "antd";
 
 const { Text } = Typography;
 
-class Project extends Component {
+class Objects extends Component {
   render() {
     return (
       <div
@@ -38,29 +38,38 @@ class Project extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3.5vw" }}>Exercises</h1>
-            <Typography style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
-              CHATBOT
-            </Typography>
-            <Typography style={{ fontSize: "1.5vw" }}>Requirements</Typography>
-
+            <h1 style={{ color: "black", fontSize: "3vw" }}>Objects</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use all primitive types.
+                Collections of properties. Created using brace notation.
               </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                {"var car = {"}
+              </Text>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                {"isWorking: true,"}
+                {'parts: ["engine", "steering wheel"],'}
+              </Text>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                {"}"}
+              </Text>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use 5 commands (total)
+                Use . operator to grab values in objects
               </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                console.log(car.isWorking);
+              </Text>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                >> true
+              </Text>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Add a command that displays a random sage fact.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Customize it however you want.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Typing "quit" exists the program.
+                Modify objects with assignment
               </li>
             </ul>
+
+            <Typography style={{ fontSize: "1.2vw" }}>
+              Make an object of yourself! (name, birthday, etc...)
+            </Typography>
           </div>
 
           <div
@@ -89,4 +98,4 @@ class Project extends Component {
   }
 }
 
-export default Project;
+export default Objects;

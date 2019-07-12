@@ -24801,6 +24801,21 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_components_Exercises__WEBPACK_IMPORTED_MODULE_30__ = __webpack_require__(/*! ../src/components/Exercises */ "./src/components/Exercises.js");
 /* harmony import */ var _src_components_AdvancedFunctions__WEBPACK_IMPORTED_MODULE_31__ = __webpack_require__(/*! ../src/components/AdvancedFunctions */ "./src/components/AdvancedFunctions.js");
 /* harmony import */ var _src_components_Project__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ../src/components/Project */ "./src/components/Project.js");
+/* harmony import */ var _src_components_HTMLIntro__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ../src/components/HTMLIntro */ "./src/components/HTMLIntro.js");
+/* harmony import */ var _src_components_BasicTags__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ../src/components/BasicTags */ "./src/components/BasicTags.js");
+/* harmony import */ var _src_components_TextTags__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ../src/components/TextTags */ "./src/components/TextTags.js");
+/* harmony import */ var _src_components_ImageTags__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ../src/components/ImageTags */ "./src/components/ImageTags.js");
+/* harmony import */ var _src_components_CSS__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ../src/components/CSS */ "./src/components/CSS.js");
+/* harmony import */ var _src_components_ConnectingCSS__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ../src/components/ConnectingCSS */ "./src/components/ConnectingCSS.js");
+/* harmony import */ var _src_components_AddingCSS__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ../src/components/AddingCSS */ "./src/components/AddingCSS.js");
+/* harmony import */ var _src_components_Publish__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ../src/components/Publish */ "./src/components/Publish.js");
+/* harmony import */ var _src_components_Review__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ../src/components/Review */ "./src/components/Review.js");
+/* harmony import */ var _src_components_ReviewExercises__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ../src/components/ReviewExercises */ "./src/components/ReviewExercises.js");
+/* harmony import */ var _src_components_Arrays__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ../src/components/Arrays */ "./src/components/Arrays.js");
+/* harmony import */ var _src_components_Objects__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ../src/components/Objects */ "./src/components/Objects.js");
+/* harmony import */ var _src_components_HTMLJS__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ../src/components/HTMLJS */ "./src/components/HTMLJS.js");
+/* harmony import */ var _src_components_NewTags__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ../src/components/NewTags */ "./src/components/NewTags.js");
+/* harmony import */ var _src_components_MemeGenerator__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ../src/components/MemeGenerator */ "./src/components/MemeGenerator.js");
 
 
 
@@ -24815,6 +24830,21 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/pages/index.js";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -24878,7 +24908,7 @@ function (_Component) {
             add: _this.addIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 41
+              lineNumber: 56
             },
             __self: this
           });
@@ -24890,7 +24920,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 45
+              lineNumber: 60
             },
             __self: this
           });
@@ -24902,7 +24932,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 49
+              lineNumber: 64
             },
             __self: this
           });
@@ -24914,7 +24944,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 53
+              lineNumber: 68
             },
             __self: this
           });
@@ -24926,7 +24956,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 57
+              lineNumber: 72
             },
             __self: this
           });
@@ -24938,7 +24968,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 61
+              lineNumber: 76
             },
             __self: this
           });
@@ -24950,7 +24980,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 65
+              lineNumber: 80
             },
             __self: this
           });
@@ -24962,7 +24992,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 69
+              lineNumber: 84
             },
             __self: this
           });
@@ -24974,7 +25004,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 73
+              lineNumber: 88
             },
             __self: this
           });
@@ -24986,7 +25016,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 77
+              lineNumber: 92
             },
             __self: this
           });
@@ -24998,7 +25028,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 81
+              lineNumber: 96
             },
             __self: this
           });
@@ -25010,7 +25040,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 85
+              lineNumber: 100
             },
             __self: this
           });
@@ -25022,7 +25052,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 89
+              lineNumber: 104
             },
             __self: this
           });
@@ -25034,7 +25064,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 93
+              lineNumber: 108
             },
             __self: this
           });
@@ -25046,7 +25076,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 97
+              lineNumber: 112
             },
             __self: this
           });
@@ -25058,7 +25088,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 101
+              lineNumber: 116
             },
             __self: this
           });
@@ -25070,7 +25100,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 105
+              lineNumber: 120
             },
             __self: this
           });
@@ -25082,7 +25112,7 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 110
+              lineNumber: 125
             },
             __self: this
           });
@@ -25094,7 +25124,187 @@ function (_Component) {
             remove: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 115
+              lineNumber: 130
+            },
+            __self: this
+          });
+          break;
+
+        case 19:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_HTMLIntro__WEBPACK_IMPORTED_MODULE_33__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 134
+            },
+            __self: this
+          });
+          break;
+
+        case 20:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_BasicTags__WEBPACK_IMPORTED_MODULE_34__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 138
+            },
+            __self: this
+          });
+          break;
+
+        case 21:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_TextTags__WEBPACK_IMPORTED_MODULE_35__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 142
+            },
+            __self: this
+          });
+          break;
+
+        case 22:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_ImageTags__WEBPACK_IMPORTED_MODULE_36__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 146
+            },
+            __self: this
+          });
+          break;
+
+        case 23:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_CSS__WEBPACK_IMPORTED_MODULE_37__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 150
+            },
+            __self: this
+          });
+          break;
+
+        case 24:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_ConnectingCSS__WEBPACK_IMPORTED_MODULE_38__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 154
+            },
+            __self: this
+          });
+          break;
+
+        case 25:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_AddingCSS__WEBPACK_IMPORTED_MODULE_39__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 158
+            },
+            __self: this
+          });
+          break;
+
+        case 26:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_Publish__WEBPACK_IMPORTED_MODULE_40__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 162
+            },
+            __self: this
+          });
+          break;
+
+        case 27:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_Review__WEBPACK_IMPORTED_MODULE_41__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 166
+            },
+            __self: this
+          });
+          break;
+
+        case 28:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_ReviewExercises__WEBPACK_IMPORTED_MODULE_42__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 171
+            },
+            __self: this
+          });
+          break;
+
+        case 29:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_Arrays__WEBPACK_IMPORTED_MODULE_43__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 176
+            },
+            __self: this
+          });
+          break;
+
+        case 30:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_Objects__WEBPACK_IMPORTED_MODULE_44__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 180
+            },
+            __self: this
+          });
+          break;
+
+        case 31:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_HTMLJS__WEBPACK_IMPORTED_MODULE_45__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 184
+            },
+            __self: this
+          });
+          break;
+
+        case 32:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_NewTags__WEBPACK_IMPORTED_MODULE_46__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 188
+            },
+            __self: this
+          });
+          break;
+
+        case 33:
+          return react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(_src_components_MemeGenerator__WEBPACK_IMPORTED_MODULE_47__["default"], {
+            add: _this.addIndex,
+            remove: _this.removeIndex,
+            __source: {
+              fileName: _jsxFileName,
+              lineNumber: 192
             },
             __self: this
           });
@@ -25112,7 +25322,7 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 120
+              lineNumber: 197
             },
             __self: this
           }, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -25129,7 +25339,7 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 130
+              lineNumber: 207
             },
             __self: this
           }, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement("div", {
@@ -25142,7 +25352,7 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 143
+              lineNumber: 220
             },
             __self: this
           }, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement("h1", {
@@ -25152,7 +25362,7 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 152
+              lineNumber: 229
             },
             __self: this
           }, "Any Questions?")), react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement("div", {
@@ -25165,7 +25375,7 @@ function (_Component) {
             },
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 157
+              lineNumber: 234
             },
             __self: this
           }, react__WEBPACK_IMPORTED_MODULE_13___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
@@ -25176,7 +25386,7 @@ function (_Component) {
             onClick: _this.removeIndex,
             __source: {
               fileName: _jsxFileName,
-              lineNumber: 166
+              lineNumber: 243
             },
             __self: this
           }))));
@@ -25197,6 +25407,283 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_13__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (App);
+
+/***/ }),
+
+/***/ "./src/components/AddingCSS.js":
+/*!*************************************!*\
+  !*** ./src/components/AddingCSS.js ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/AddingCSS.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var AddingCSS =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(AddingCSS, _Component);
+
+  function AddingCSS() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, AddingCSS);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(AddingCSS).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(AddingCSS, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Adding Styles"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "selector, attributes, and values"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, "img {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "width: 200px;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }, "}"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55
+        },
+        __self: this
+      }, "Centering text, adding different fonts, and changing colors"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 58
+        },
+        __self: this
+      }, "body {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
+      }, "text-align: center;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 64
+        },
+        __self: this
+      }, "font-family: \"Arial\";"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 67
+        },
+        __self: this
+      }, "background: azure;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
+      }, "color: purple;"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 73
+        },
+        __self: this
+      }, "}"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 78
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 87
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 92
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return AddingCSS;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (AddingCSS);
 
 /***/ }),
 
@@ -25557,6 +26044,272 @@ function (_Component) {
 
 /***/ }),
 
+/***/ "./src/components/Arrays.js":
+/*!**********************************!*\
+  !*** ./src/components/Arrays.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/Arrays.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var Arrays =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(Arrays, _Component);
+
+  function Arrays() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, Arrays);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(Arrays).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(Arrays, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Arrays"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "Data type for storing sequences of values (same type)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, "var list = [\"jackie\", \"joey\", \"god\"];"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "Access values using a bracket (arrays start at 0)."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }, "console.log(list[2]);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55
+        },
+        __self: this
+      }, ">> 2"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 58
+        },
+        __self: this
+      }, ".length gives you the length of an array."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
+      }, "console.log(list.length);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 64
+        },
+        __self: this
+      }, ">> 3"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 67
+        },
+        __self: this
+      }, "Modify arrays with .push .pop or just assignment")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a, {
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 72
+        },
+        __self: this
+      }, "Make an array of everyone in the class. Then use a for loop to print them out.")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 78
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 87
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 92
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return Arrays;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (Arrays);
+
+/***/ }),
+
 /***/ "./src/components/BasicFunctions.js":
 /*!******************************************!*\
   !*** ./src/components/BasicFunctions.js ***!
@@ -25836,6 +26589,213 @@ function (_Component) {
 
 /***/ }),
 
+/***/ "./src/components/BasicTags.js":
+/*!*************************************!*\
+  !*** ./src/components/BasicTags.js ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/BasicTags.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var BasicTags =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(BasicTags, _Component);
+
+  function BasicTags() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, BasicTags);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(BasicTags).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(BasicTags, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "How does it work?"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, "Stores information between tags"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 48
+        },
+        __self: this
+      }, "<html> </html>"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }, "<head> </head>"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54
+        },
+        __self: this
+      }, "<body> </body>"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 59
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 68
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 73
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return BasicTags;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (BasicTags);
+
+/***/ }),
+
 /***/ "./src/components/Boolean.js":
 /*!***********************************!*\
   !*** ./src/components/Boolean.js ***!
@@ -26101,6 +27061,360 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (Boolean);
+
+/***/ }),
+
+/***/ "./src/components/CSS.js":
+/*!*******************************!*\
+  !*** ./src/components/CSS.js ***!
+  \*******************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/CSS.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var CSS =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(CSS, _Component);
+
+  function CSS() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, CSS);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(CSS).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(CSS, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "What is CSS?")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return CSS;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (CSS);
+
+/***/ }),
+
+/***/ "./src/components/ConnectingCSS.js":
+/*!*****************************************!*\
+  !*** ./src/components/ConnectingCSS.js ***!
+  \*****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/ConnectingCSS.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var ConnectingCSS =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(ConnectingCSS, _Component);
+
+  function ConnectingCSS() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, ConnectingCSS);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(ConnectingCSS).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(ConnectingCSS, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Connecting CSS"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, "<link /> tag"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 48
+        },
+        __self: this
+      }, '<link rel="stylesheet" href="style.css" />'), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }, "Add the tag to <head> </head>"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 56
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 65
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return ConnectingCSS;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (ConnectingCSS);
 
 /***/ }),
 
@@ -26588,6 +27902,400 @@ function (_Component) {
 
 /***/ }),
 
+/***/ "./src/components/HTMLIntro.js":
+/*!*************************************!*\
+  !*** ./src/components/HTMLIntro.js ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/HTMLIntro.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var HTMLIntro =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(HTMLIntro, _Component);
+
+  function HTMLIntro() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, HTMLIntro);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(HTMLIntro).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(HTMLIntro, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "What is HTML?")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return HTMLIntro;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (HTMLIntro);
+
+/***/ }),
+
+/***/ "./src/components/HTMLJS.js":
+/*!**********************************!*\
+  !*** ./src/components/HTMLJS.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/HTMLJS.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var HTMLJS =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(HTMLJS, _Component);
+
+  function HTMLJS() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, HTMLJS);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(HTMLJS).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(HTMLJS, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "HTML with JavaScript"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, "Use getElementById to change text"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 48
+        },
+        __self: this
+      }, "document.getElementById(\"demo\").innerHTML = \"Something\""), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 51
+        },
+        __self: this
+      }, "onclick helps change text when something is clicked"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54
+        },
+        __self: this
+      }, "onclick=\"changeText(this)\""), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      }, "function changeText(id) {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 60
+        },
+        __self: this
+      }, "id.innerHTML = \"Ooops!\";"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 63
+        },
+        __self: this
+      }, "}"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 69
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 78
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 83
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return HTMLJS;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (HTMLJS);
+
+/***/ }),
+
 /***/ "./src/components/HelloWorld.js":
 /*!**************************************!*\
   !*** ./src/components/HelloWorld.js ***!
@@ -27060,6 +28768,203 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (If);
+
+/***/ }),
+
+/***/ "./src/components/ImageTags.js":
+/*!*************************************!*\
+  !*** ./src/components/ImageTags.js ***!
+  \*************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/ImageTags.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var ImageTags =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(ImageTags, _Component);
+
+  function ImageTags() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, ImageTags);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(ImageTags).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(ImageTags, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Image Tags"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "Grab source of image for attribute."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, '<img src="https://i.imgur.com/dFKsiNE.png">'), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "Void element"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 63
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 68
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return ImageTags;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (ImageTags);
 
 /***/ }),
 
@@ -27672,6 +29577,419 @@ function (_Component) {
 
 /***/ }),
 
+/***/ "./src/components/MemeGenerator.js":
+/*!*****************************************!*\
+  !*** ./src/components/MemeGenerator.js ***!
+  \*****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/MemeGenerator.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var HTMLJS =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(HTMLJS, _Component);
+
+  function HTMLJS() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, HTMLJS);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(HTMLJS).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(HTMLJS, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Meme Generator"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "We are using axios a package to request links (REST)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, "Imgflip returns a list of meme links. Grab a random one."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "Use getElementById to replace image"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 64
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 69
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return HTMLJS;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (HTMLJS);
+
+/***/ }),
+
+/***/ "./src/components/NewTags.js":
+/*!***********************************!*\
+  !*** ./src/components/NewTags.js ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/NewTags.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var NewTags =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(NewTags, _Component);
+
+  function NewTags() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, NewTags);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(NewTags).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(NewTags, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "New Tags"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "<button /> tag"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, '<button onclick="myFunction()">Try it</button>'), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "<input /> tag"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }, '<input type="text" id="myText" value="Some text...">')), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a, {
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      }, "Try to make a guessing game now.")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 62
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 71
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 76
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return NewTags;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (NewTags);
+
+/***/ }),
+
 /***/ "./src/components/Number.js":
 /*!**********************************!*\
   !*** ./src/components/Number.js ***!
@@ -27923,6 +30241,262 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (Number);
+
+/***/ }),
+
+/***/ "./src/components/Objects.js":
+/*!***********************************!*\
+  !*** ./src/components/Objects.js ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/Objects.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var Objects =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(Objects, _Component);
+
+  function Objects() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, Objects);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(Objects).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(Objects, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Objects"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "Collections of properties. Created using brace notation."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, "var car = {"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "isWorking: true,", 'parts: ["engine", "steering wheel"],'), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 53
+        },
+        __self: this
+      }, "}"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 56
+        },
+        __self: this
+      }, "Use . operator to grab values in objects"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 59
+        },
+        __self: this
+      }, "console.log(car.isWorking);"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 62
+        },
+        __self: this
+      }, ">> true"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 65
+        },
+        __self: this
+      }, "Modify objects with assignment")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a, {
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
+      }, "Make an object of yourself! (name, birthday, etc...)")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 75
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 84
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 89
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return Objects;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (Objects);
 
 /***/ }),
 
@@ -28236,7 +30810,7 @@ function (_Component) {
           lineNumber: 51
         },
         __self: this
-      }, "Include a calculator for the Pythagorean Theorem."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+      }, "Use 5 commands (total)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
         style: {
           fontSize: "1.2vw",
           fontWeight: "bold"
@@ -28309,6 +30883,756 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (Project);
+
+/***/ }),
+
+/***/ "./src/components/Publish.js":
+/*!***********************************!*\
+  !*** ./src/components/Publish.js ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/Publish.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var Publish =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(Publish, _Component);
+
+  function Publish() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, Publish);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(Publish).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(Publish, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "How to publish the website?")), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 54
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 59
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return Publish;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (Publish);
+
+/***/ }),
+
+/***/ "./src/components/Review.js":
+/*!**********************************!*\
+  !*** ./src/components/Review.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/Review.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var Review =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(Review, _Component);
+
+  function Review() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, Review);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(Review).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(Review, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Review \uD83D\uDDA5"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a, {
+        style: {
+          fontSize: "2.1vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, "What we have covered:"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 47
+        },
+        __self: this
+      }, "Numbers"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 48
+        },
+        __self: this
+      }, "Strings"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "Booleans"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }, "Undefined"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55
+        },
+        __self: this
+      }, "Variables"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 58
+        },
+        __self: this
+      }, "Functions"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
+      }, "If Statements"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 64
+        },
+        __self: this
+      }, "While and For Loops"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 67
+        },
+        __self: this
+      }, "Switch"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 68
+        },
+        __self: this
+      }, "HTML"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 69
+        },
+        __self: this
+      }, "CSS"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 73
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 82
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 87
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return Review;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (Review);
+
+/***/ }),
+
+/***/ "./src/components/ReviewExercises.js":
+/*!*******************************************!*\
+  !*** ./src/components/ReviewExercises.js ***!
+  \*******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/ReviewExercises.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var ReviewExercises =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(ReviewExercises, _Component);
+
+  function ReviewExercises() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, ReviewExercises);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(ReviewExercises).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(ReviewExercises, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Review Exercises \uD83D\uDEB4\u200D\u2642\uFE0F"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ol", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 44
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 45
+        },
+        __self: this
+      }, "Ask a user for a number and store it in a variable. Print out the product of that number and a random number from 1 to 10."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "Print this out."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }, "\xA0\xA0\xA0\xA0\xA0#"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55
+        },
+        __self: this
+      }, "\xA0\xA0\xA0\xA0##"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 58
+        },
+        __self: this
+      }, "\xA0\xA0\xA0###"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
+      }, "\xA0\xA0####"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 64
+        },
+        __self: this
+      }, "\xA0#####"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.2vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 67
+        },
+        __self: this
+      }, "######"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
+      }, "Prompt the user for something. If they answer no, write something. If they answer yes, write something else. (confirm function?)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 75
+        },
+        __self: this
+      }, "Create a function that returns the multiple of two numbers you provide it."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 79
+        },
+        __self: this
+      }, "Make a chain of if statements to discern between small, medium, and large."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 83
+        },
+        __self: this
+      }, "Prompt the user for two numbers. Using a for loop, print out ranges from those ranges."), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 87
+        },
+        __self: this
+      }, "Add a <h1> tag about an endangered species and a <img> tag of that species. "), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "1.2vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 92
+        },
+        __self: this
+      }, "Change the color of your h1 tag and the size of the image"))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 98
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 107
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 112
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return ReviewExercises;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (ReviewExercises);
 
 /***/ }),
 
@@ -28864,6 +32188,224 @@ function (_Component) {
 }(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
 
 /* harmony default export */ __webpack_exports__["default"] = (Switch);
+
+/***/ }),
+
+/***/ "./src/components/TextTags.js":
+/*!************************************!*\
+  !*** ./src/components/TextTags.js ***!
+  \************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! antd/lib/card/style/css */ "./node_modules/antd/lib/card/style/css.js");
+/* harmony import */ var antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card_style_css__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! antd/lib/card */ "./node_modules/antd/lib/card/index.js");
+/* harmony import */ var antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(antd_lib_card__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! antd/lib/icon/style/css */ "./node_modules/antd/lib/icon/style/css.js");
+/* harmony import */ var antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon_style_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! antd/lib/icon */ "./node_modules/antd/lib/icon/index.js");
+/* harmony import */ var antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! antd/lib/typography/style/css */ "./node_modules/antd/lib/typography/style/css.js");
+/* harmony import */ var antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography_style_css__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! antd/lib/typography */ "./node_modules/antd/lib/typography/index.js");
+/* harmony import */ var antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(antd_lib_typography__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_11__);
+
+
+
+
+
+
+
+
+
+
+
+var _jsxFileName = "/Users/jackieni/dev/sage/its-just-javascript/src/components/TextTags.js";
+
+var Text = antd_lib_typography__WEBPACK_IMPORTED_MODULE_10___default.a.Text;
+
+var TextTags =
+/*#__PURE__*/
+function (_Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_8__["default"])(TextTags, _Component);
+
+  function TextTags() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__["default"])(this, TextTags);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_6__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_7__["default"])(TextTags).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__["default"])(TextTags, [{
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          height: "100vh",
+          width: "100wv",
+          display: "flex",
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_card__WEBPACK_IMPORTED_MODULE_1___default.a, {
+        style: {
+          backgroundColor: "white",
+          width: "80vw",
+          height: "80vh"
+        },
+        bodyStyle: {
+          display: "flex",
+          flex: 1,
+          height: "100%",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          height: "100%",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 32
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("h1", {
+        style: {
+          color: "black",
+          fontSize: "3.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 41
+        },
+        __self: this
+      }, "Text Tags"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("ul", {
+        style: {
+          display: "flex",
+          flexDirection: "column"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 42
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 43
+        },
+        __self: this
+      }, "h1 (heading)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 46
+        },
+        __self: this
+      }, "<h1> </h1>"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 49
+        },
+        __self: this
+      }, "p (paragraph)"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(Text, {
+        code: true,
+        style: {
+          fontSize: "1.5vw"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 52
+        },
+        __self: this
+      }, "<p> </p>"), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("li", {
+        code: true,
+        style: {
+          fontSize: "2.4vw",
+          fontWeight: "bold"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 55
+        },
+        __self: this
+      }, "Write your name in a header and a description in the paragraph tag."))), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement("div", {
+        style: {
+          display: "flex",
+          flex: 1,
+          width: "100%",
+          justifyContent: "space-between",
+          alignItems: "flex-end"
+        },
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "left",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.remove,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
+      }), react__WEBPACK_IMPORTED_MODULE_11___default.a.createElement(antd_lib_icon__WEBPACK_IMPORTED_MODULE_3___default.a, {
+        type: "right",
+        style: {
+          fontSize: "1.2vw"
+        },
+        onClick: this.props.add,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 75
+        },
+        __self: this
+      }))));
+    }
+  }]);
+
+  return TextTags;
+}(react__WEBPACK_IMPORTED_MODULE_11__["Component"]);
+
+/* harmony default export */ __webpack_exports__["default"] = (TextTags);
 
 /***/ }),
 
@@ -29759,7 +33301,7 @@ function (_Component) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fjackieni%2Fdev%2Fsage%2Fits-just-javascript%2Fpages%2Findex.js ***!
   \******************************************************************************************************************************************/
@@ -29782,5 +33324,5 @@ module.exports = dll_7aff549c98b978433226;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js","styles"]]]);
+},[[0,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map

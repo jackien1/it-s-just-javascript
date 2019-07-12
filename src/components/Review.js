@@ -3,7 +3,7 @@ import { Card, Icon, Typography } from "antd";
 
 const { Text } = Typography;
 
-class Project extends Component {
+class Review extends Component {
   render() {
     return (
       <div
@@ -38,28 +38,35 @@ class Project extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3.5vw" }}>Exercises</h1>
-            <Typography style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
-              CHATBOT
+            <h1 style={{ color: "black", fontSize: "3.5vw" }}>Review 🖥</h1>
+            <Typography style={{ fontSize: "2.1vw" }}>
+              What we have covered:
             </Typography>
-            <Typography style={{ fontSize: "1.5vw" }}>Requirements</Typography>
 
             <ul style={{ display: "flex", flexDirection: "column" }}>
+              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>Numbers</li>
+              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>Strings</li>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use all primitive types.
+                Booleans
               </li>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use 5 commands (total)
+                Undefined
               </li>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Add a command that displays a random sage fact.
+                Variables
               </li>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Customize it however you want.
+                Functions
               </li>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Typing "quit" exists the program.
+                If Statements
               </li>
+              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
+                While and For Loops
+              </li>
+              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>Switch</li>
+              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>HTML</li>
+              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>CSS</li>
             </ul>
           </div>
 
@@ -89,4 +96,4 @@ class Project extends Component {
   }
 }
 
-export default Project;
+export default Review;

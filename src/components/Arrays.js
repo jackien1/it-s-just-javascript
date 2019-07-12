@@ -3,7 +3,7 @@ import { Card, Icon, Typography } from "antd";
 
 const { Text } = Typography;
 
-class Project extends Component {
+class Arrays extends Component {
   render() {
     return (
       <div
@@ -38,29 +38,41 @@ class Project extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3.5vw" }}>Exercises</h1>
-            <Typography style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
-              CHATBOT
-            </Typography>
-            <Typography style={{ fontSize: "1.5vw" }}>Requirements</Typography>
-
+            <h1 style={{ color: "black", fontSize: "3vw" }}>Arrays</h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use all primitive types.
+                Data type for storing sequences of values (same type)
               </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                var list = ["jackie", "joey", "god"];
+              </Text>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use 5 commands (total)
+                Access values using a bracket (arrays start at 0).
               </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                console.log(list[2]);
+              </Text>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                >> 2
+              </Text>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Add a command that displays a random sage fact.
+                .length gives you the length of an array.
               </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                console.log(list.length);
+              </Text>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                >> 3
+              </Text>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Customize it however you want.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Typing "quit" exists the program.
+                Modify arrays with .push .pop or just assignment
               </li>
             </ul>
+
+            <Typography style={{ fontSize: "1.2vw" }}>
+              Make an array of everyone in the class. Then use a for loop to
+              print them out.
+            </Typography>
           </div>
 
           <div
@@ -89,4 +101,4 @@ class Project extends Component {
   }
 }
 
-export default Project;
+export default Arrays;

@@ -3,7 +3,7 @@ import { Card, Icon, Typography } from "antd";
 
 const { Text } = Typography;
 
-class Project extends Component {
+class HTMLJS extends Component {
   render() {
     return (
       <div
@@ -38,28 +38,31 @@ class Project extends Component {
               alignItems: "center"
             }}
           >
-            <h1 style={{ color: "black", fontSize: "3.5vw" }}>Exercises</h1>
-            <Typography style={{ fontSize: "2.1vw", fontWeight: "bold" }}>
-              CHATBOT
-            </Typography>
-            <Typography style={{ fontSize: "1.5vw" }}>Requirements</Typography>
-
+            <h1 style={{ color: "black", fontSize: "3vw" }}>
+              HTML with JavaScript
+            </h1>
             <ul style={{ display: "flex", flexDirection: "column" }}>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use all primitive types.
+                Use getElementById to change text
               </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                document.getElementById("demo").innerHTML = "Something"
+              </Text>
               <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Use 5 commands (total)
+                onclick helps change text when something is clicked
               </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Add a command that displays a random sage fact.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Customize it however you want.
-              </li>
-              <li style={{ fontSize: "1.2vw", fontWeight: "bold" }}>
-                Typing "quit" exists the program.
-              </li>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                onclick="changeText(this)"
+              </Text>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                {"function changeText(id) {"}
+              </Text>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                id.innerHTML = "Ooops!";
+              </Text>
+              <Text code style={{ fontSize: "1.2vw" }}>
+                }
+              </Text>
             </ul>
           </div>
 
@@ -89,4 +92,4 @@ class Project extends Component {
   }
 }
 
-export default Project;
+export default HTMLJS;
